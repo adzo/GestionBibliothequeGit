@@ -1,0 +1,11 @@
+C:\Users\bensaid\Desktop\GestionBibliotheque\BibDomain\bin\Debug\BibDomain.dll
+C:\Users\bensaid\Desktop\GestionBibliotheque\BibDomain\bin\Debug\BibDomain.pdb
+C:\Users\bensaid\Desktop\GestionBibliotheque\BibDomain\obj\Debug\BibDomain.csproj.CoreCompileInputs.cache
+C:\Users\bensaid\Desktop\GestionBibliotheque\BibDomain\obj\Debug\BibDomain.dll
+C:\Users\bensaid\Desktop\GestionBibliotheque\BibDomain\obj\Debug\BibDomain.pdb
+D:\Esprit\2018-2019\Architecture N-tiers\MVC\GestionBibliothequeFinal\GestionBibliotheque\BibDomain\bin\Debug\BibDomain.dll
+D:\Esprit\2018-2019\Architecture N-tiers\MVC\GestionBibliothequeFinal\GestionBibliotheque\BibDomain\bin\Debug\BibDomain.pdb
+D:\Esprit\2018-2019\Architecture N-tiers\MVC\GestionBibliothequeFinal\GestionBibliotheque\BibDomain\obj\Debug\BibDomain.csprojAssemblyReference.cache
+D:\Esprit\2018-2019\Architecture N-tiers\MVC\GestionBibliothequeFinal\GestionBibliotheque\BibDomain\obj\Debug\BibDomain.csproj.CoreCompileInputs.cache
+D:\Esprit\2018-2019\Architecture N-tiers\MVC\GestionBibliothequeFinal\GestionBibliotheque\BibDomain\obj\Debug\BibDomain.dll
+D:\Esprit\2018-2019\Architecture N-tiers\MVC\GestionBibliothequeFinal\GestionBibliotheque\BibDomain\obj\Debug\BibDomain.pdb

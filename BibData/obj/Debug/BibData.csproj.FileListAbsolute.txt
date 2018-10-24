@@ -1,0 +1,33 @@
+C:\Users\bensaid\Desktop\GestionBibliotheque\BibData\bin\Debug\BibData.dll.config
+C:\Users\bensaid\Desktop\GestionBibliotheque\BibData\bin\Debug\BibData.dll
+C:\Users\bensaid\Desktop\GestionBibliotheque\BibData\bin\Debug\BibData.pdb
+C:\Users\bensaid\Desktop\GestionBibliotheque\BibData\bin\Debug\BibDomain.dll
+C:\Users\bensaid\Desktop\GestionBibliotheque\BibData\bin\Debug\EntityFramework.dll
+C:\Users\bensaid\Desktop\GestionBibliotheque\BibData\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\bensaid\Desktop\GestionBibliotheque\BibData\bin\Debug\BibDomain.pdb
+C:\Users\bensaid\Desktop\GestionBibliotheque\BibData\bin\Debug\EntityFramework.xml
+C:\Users\bensaid\Desktop\GestionBibliotheque\BibData\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\bensaid\Desktop\GestionBibliotheque\BibData\obj\Debug\BibData.csprojResolveAssemblyReference.cache
+C:\Users\bensaid\Desktop\GestionBibliotheque\BibData\obj\Debug\BibData.csproj.CoreCompileInputs.cache
+C:\Users\bensaid\Desktop\GestionBibliotheque\BibData\obj\Debug\BibData.csproj.CopyComplete
+C:\Users\bensaid\Desktop\GestionBibliotheque\BibData\obj\Debug\BibData.dll
+C:\Users\bensaid\Desktop\GestionBibliotheque\BibData\obj\Debug\BibData.pdb
+C:\Users\bensaid\Desktop\GestionBibliotheque\BibData\obj\Debug\BibData.Migrations.b.resources
+C:\Users\bensaid\Desktop\GestionBibliotheque\BibData\obj\Debug\BibData.csproj.GenerateResource.cache
+D:\Esprit\2018-2019\Architecture N-tiers\MVC\GestionBibliothequeFinal\GestionBibliotheque\BibData\bin\Debug\BibData.dll.config
+D:\Esprit\2018-2019\Architecture N-tiers\MVC\GestionBibliothequeFinal\GestionBibliotheque\BibData\bin\Debug\BibData.dll
+D:\Esprit\2018-2019\Architecture N-tiers\MVC\GestionBibliothequeFinal\GestionBibliotheque\BibData\bin\Debug\BibData.pdb
+D:\Esprit\2018-2019\Architecture N-tiers\MVC\GestionBibliothequeFinal\GestionBibliotheque\BibData\bin\Debug\BibDomain.dll
+D:\Esprit\2018-2019\Architecture N-tiers\MVC\GestionBibliothequeFinal\GestionBibliotheque\BibData\bin\Debug\EntityFramework.dll
+D:\Esprit\2018-2019\Architecture N-tiers\MVC\GestionBibliothequeFinal\GestionBibliotheque\BibData\bin\Debug\EntityFramework.SqlServer.dll
+D:\Esprit\2018-2019\Architecture N-tiers\MVC\GestionBibliothequeFinal\GestionBibliotheque\BibData\bin\Debug\BibDomain.pdb
+D:\Esprit\2018-2019\Architecture N-tiers\MVC\GestionBibliothequeFinal\GestionBibliotheque\BibData\bin\Debug\EntityFramework.xml
+D:\Esprit\2018-2019\Architecture N-tiers\MVC\GestionBibliothequeFinal\GestionBibliotheque\BibData\bin\Debug\EntityFramework.SqlServer.xml
+D:\Esprit\2018-2019\Architecture N-tiers\MVC\GestionBibliothequeFinal\GestionBibliotheque\BibData\obj\Debug\BibData.csprojAssemblyReference.cache
+D:\Esprit\2018-2019\Architecture N-tiers\MVC\GestionBibliothequeFinal\GestionBibliotheque\BibData\obj\Debug\BibData.Migrations.b.resources
+D:\Esprit\2018-2019\Architecture N-tiers\MVC\GestionBibliothequeFinal\GestionBibliotheque\BibData\obj\Debug\BibData.csproj.GenerateResource.cache
+D:\Esprit\2018-2019\Architecture N-tiers\MVC\GestionBibliothequeFinal\GestionBibliotheque\BibData\obj\Debug\BibData.csproj.CoreCompileInputs.cache
+D:\Esprit\2018-2019\Architecture N-tiers\MVC\GestionBibliothequeFinal\GestionBibliotheque\BibData\obj\Debug\BibData.csproj.CopyComplete
+D:\Esprit\2018-2019\Architecture N-tiers\MVC\GestionBibliothequeFinal\GestionBibliotheque\BibData\obj\Debug\BibData.dll
+D:\Esprit\2018-2019\Architecture N-tiers\MVC\GestionBibliothequeFinal\GestionBibliotheque\BibData\obj\Debug\BibData.pdb
+D:\Esprit\2018-2019\Architecture N-tiers\MVC\GestionBibliothequeFinal\GestionBibliotheque\BibData\obj\Debug\BibData.Migrations.editAuteur.resources

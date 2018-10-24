@@ -1,0 +1,42 @@
+C:\Users\bensaid\Desktop\GestionBibliotheque\BibConsole\bin\Debug\BibConsole.exe.config
+C:\Users\bensaid\Desktop\GestionBibliotheque\BibConsole\bin\Debug\BibConsole.exe
+C:\Users\bensaid\Desktop\GestionBibliotheque\BibConsole\bin\Debug\BibConsole.pdb
+C:\Users\bensaid\Desktop\GestionBibliotheque\BibConsole\bin\Debug\BibDomain.dll
+C:\Users\bensaid\Desktop\GestionBibliotheque\BibConsole\bin\Debug\EntityFramework.dll
+C:\Users\bensaid\Desktop\GestionBibliotheque\BibConsole\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\bensaid\Desktop\GestionBibliotheque\BibConsole\bin\Debug\Service.dll
+C:\Users\bensaid\Desktop\GestionBibliotheque\BibConsole\bin\Debug\ServicePattern.dll
+C:\Users\bensaid\Desktop\GestionBibliotheque\BibConsole\bin\Debug\BibData.dll
+C:\Users\bensaid\Desktop\GestionBibliotheque\BibConsole\bin\Debug\BibDomain.pdb
+C:\Users\bensaid\Desktop\GestionBibliotheque\BibConsole\bin\Debug\ServicePattern.pdb
+C:\Users\bensaid\Desktop\GestionBibliotheque\BibConsole\bin\Debug\Service.pdb
+C:\Users\bensaid\Desktop\GestionBibliotheque\BibConsole\bin\Debug\EntityFramework.xml
+C:\Users\bensaid\Desktop\GestionBibliotheque\BibConsole\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\bensaid\Desktop\GestionBibliotheque\BibConsole\bin\Debug\BibData.pdb
+C:\Users\bensaid\Desktop\GestionBibliotheque\BibConsole\bin\Debug\BibData.dll.config
+C:\Users\bensaid\Desktop\GestionBibliotheque\BibConsole\obj\Debug\BibConsole.csprojResolveAssemblyReference.cache
+C:\Users\bensaid\Desktop\GestionBibliotheque\BibConsole\obj\Debug\BibConsole.csproj.CoreCompileInputs.cache
+C:\Users\bensaid\Desktop\GestionBibliotheque\BibConsole\obj\Debug\BibConsole.csproj.CopyComplete
+C:\Users\bensaid\Desktop\GestionBibliotheque\BibConsole\obj\Debug\BibConsole.exe
+C:\Users\bensaid\Desktop\GestionBibliotheque\BibConsole\obj\Debug\BibConsole.pdb
+D:\Esprit\2018-2019\Architecture N-tiers\MVC\GestionBibliothequeFinal\GestionBibliotheque\BibConsole\bin\Debug\BibConsole.exe.config
+D:\Esprit\2018-2019\Architecture N-tiers\MVC\GestionBibliothequeFinal\GestionBibliotheque\BibConsole\bin\Debug\BibConsole.exe
+D:\Esprit\2018-2019\Architecture N-tiers\MVC\GestionBibliothequeFinal\GestionBibliotheque\BibConsole\bin\Debug\BibConsole.pdb
+D:\Esprit\2018-2019\Architecture N-tiers\MVC\GestionBibliothequeFinal\GestionBibliotheque\BibConsole\bin\Debug\BibDomain.dll
+D:\Esprit\2018-2019\Architecture N-tiers\MVC\GestionBibliothequeFinal\GestionBibliotheque\BibConsole\bin\Debug\EntityFramework.dll
+D:\Esprit\2018-2019\Architecture N-tiers\MVC\GestionBibliothequeFinal\GestionBibliotheque\BibConsole\bin\Debug\EntityFramework.SqlServer.dll
+D:\Esprit\2018-2019\Architecture N-tiers\MVC\GestionBibliothequeFinal\GestionBibliotheque\BibConsole\bin\Debug\Service.dll
+D:\Esprit\2018-2019\Architecture N-tiers\MVC\GestionBibliothequeFinal\GestionBibliotheque\BibConsole\bin\Debug\ServicePattern.dll
+D:\Esprit\2018-2019\Architecture N-tiers\MVC\GestionBibliothequeFinal\GestionBibliotheque\BibConsole\bin\Debug\BibData.dll
+D:\Esprit\2018-2019\Architecture N-tiers\MVC\GestionBibliothequeFinal\GestionBibliotheque\BibConsole\bin\Debug\BibDomain.pdb
+D:\Esprit\2018-2019\Architecture N-tiers\MVC\GestionBibliothequeFinal\GestionBibliotheque\BibConsole\bin\Debug\ServicePattern.pdb
+D:\Esprit\2018-2019\Architecture N-tiers\MVC\GestionBibliothequeFinal\GestionBibliotheque\BibConsole\bin\Debug\Service.pdb
+D:\Esprit\2018-2019\Architecture N-tiers\MVC\GestionBibliothequeFinal\GestionBibliotheque\BibConsole\bin\Debug\EntityFramework.xml
+D:\Esprit\2018-2019\Architecture N-tiers\MVC\GestionBibliothequeFinal\GestionBibliotheque\BibConsole\bin\Debug\EntityFramework.SqlServer.xml
+D:\Esprit\2018-2019\Architecture N-tiers\MVC\GestionBibliothequeFinal\GestionBibliotheque\BibConsole\bin\Debug\BibData.pdb
+D:\Esprit\2018-2019\Architecture N-tiers\MVC\GestionBibliothequeFinal\GestionBibliotheque\BibConsole\bin\Debug\BibData.dll.config
+D:\Esprit\2018-2019\Architecture N-tiers\MVC\GestionBibliothequeFinal\GestionBibliotheque\BibConsole\obj\Debug\BibConsole.csprojAssemblyReference.cache
+D:\Esprit\2018-2019\Architecture N-tiers\MVC\GestionBibliothequeFinal\GestionBibliotheque\BibConsole\obj\Debug\BibConsole.csproj.CoreCompileInputs.cache
+D:\Esprit\2018-2019\Architecture N-tiers\MVC\GestionBibliothequeFinal\GestionBibliotheque\BibConsole\obj\Debug\BibConsole.csproj.CopyComplete
+D:\Esprit\2018-2019\Architecture N-tiers\MVC\GestionBibliothequeFinal\GestionBibliotheque\BibConsole\obj\Debug\BibConsole.exe
+D:\Esprit\2018-2019\Architecture N-tiers\MVC\GestionBibliothequeFinal\GestionBibliotheque\BibConsole\obj\Debug\BibConsole.pdb

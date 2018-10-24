@@ -1,0 +1,57 @@
+﻿@model BibWeb.Models.AuteurViewModel
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>AuteurViewModel</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.AuteurCode)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.AuteurCode)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.NomComplet.Nom)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.NomComplet.Nom)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.NomComplet.Prenom)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.NomComplet.Prenom)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.CIN)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.CIN)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Adresse)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Adresse)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { /* id = Model.PrimaryKey */ }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>

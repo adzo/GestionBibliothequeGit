@@ -1,0 +1,61 @@
+﻿@model BibWeb.Models.AuteurViewModel
+
+@{
+    ViewBag.Title = "Delete";
+}
+
+<h2>Delete</h2>
+
+<h3>Are you sure you want to delete this?</h3>
+<div>
+    <h4>AuteurViewModel</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.AuteurCode)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.AuteurCode)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.NomComplet.Nom)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.NomComplet.Nom)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.NomComplet.Prenom)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.NomComplet.Prenom)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.CIN)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.CIN)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Adresse)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Adresse)
+        </dd>
+
+    </dl>
+
+    @using (Html.BeginForm()) {
+        @Html.AntiForgeryToken()
+
+        <div class="form-actions no-color">
+            <input type="submit" value="Delete" class="btn btn-default" /> |
+            @Html.ActionLink("Back to List", "Index")
+        </div>
+    }
+</div>

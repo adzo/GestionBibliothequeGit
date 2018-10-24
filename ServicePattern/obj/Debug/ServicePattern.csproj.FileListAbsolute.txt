@@ -1,0 +1,28 @@
+C:\Users\bensaid\Desktop\GestionBibliotheque\ServicePattern\bin\Debug\ServicePattern.dll
+C:\Users\bensaid\Desktop\GestionBibliotheque\ServicePattern\bin\Debug\ServicePattern.pdb
+C:\Users\bensaid\Desktop\GestionBibliotheque\ServicePattern\bin\Debug\BibData.dll
+C:\Users\bensaid\Desktop\GestionBibliotheque\ServicePattern\bin\Debug\EntityFramework.dll
+C:\Users\bensaid\Desktop\GestionBibliotheque\ServicePattern\bin\Debug\BibDomain.dll
+C:\Users\bensaid\Desktop\GestionBibliotheque\ServicePattern\bin\Debug\BibData.pdb
+C:\Users\bensaid\Desktop\GestionBibliotheque\ServicePattern\bin\Debug\BibData.dll.config
+C:\Users\bensaid\Desktop\GestionBibliotheque\ServicePattern\bin\Debug\EntityFramework.xml
+C:\Users\bensaid\Desktop\GestionBibliotheque\ServicePattern\bin\Debug\BibDomain.pdb
+C:\Users\bensaid\Desktop\GestionBibliotheque\ServicePattern\obj\Debug\ServicePattern.csprojResolveAssemblyReference.cache
+C:\Users\bensaid\Desktop\GestionBibliotheque\ServicePattern\obj\Debug\ServicePattern.csproj.CoreCompileInputs.cache
+C:\Users\bensaid\Desktop\GestionBibliotheque\ServicePattern\obj\Debug\ServicePattern.csproj.CopyComplete
+C:\Users\bensaid\Desktop\GestionBibliotheque\ServicePattern\obj\Debug\ServicePattern.dll
+C:\Users\bensaid\Desktop\GestionBibliotheque\ServicePattern\obj\Debug\ServicePattern.pdb
+D:\Esprit\2018-2019\Architecture N-tiers\MVC\GestionBibliothequeFinal\GestionBibliotheque\ServicePattern\bin\Debug\ServicePattern.dll
+D:\Esprit\2018-2019\Architecture N-tiers\MVC\GestionBibliothequeFinal\GestionBibliotheque\ServicePattern\bin\Debug\ServicePattern.pdb
+D:\Esprit\2018-2019\Architecture N-tiers\MVC\GestionBibliothequeFinal\GestionBibliotheque\ServicePattern\bin\Debug\BibData.dll
+D:\Esprit\2018-2019\Architecture N-tiers\MVC\GestionBibliothequeFinal\GestionBibliotheque\ServicePattern\bin\Debug\EntityFramework.dll
+D:\Esprit\2018-2019\Architecture N-tiers\MVC\GestionBibliothequeFinal\GestionBibliotheque\ServicePattern\bin\Debug\BibDomain.dll
+D:\Esprit\2018-2019\Architecture N-tiers\MVC\GestionBibliothequeFinal\GestionBibliotheque\ServicePattern\bin\Debug\BibData.pdb
+D:\Esprit\2018-2019\Architecture N-tiers\MVC\GestionBibliothequeFinal\GestionBibliotheque\ServicePattern\bin\Debug\BibData.dll.config
+D:\Esprit\2018-2019\Architecture N-tiers\MVC\GestionBibliothequeFinal\GestionBibliotheque\ServicePattern\bin\Debug\EntityFramework.xml
+D:\Esprit\2018-2019\Architecture N-tiers\MVC\GestionBibliothequeFinal\GestionBibliotheque\ServicePattern\bin\Debug\BibDomain.pdb
+D:\Esprit\2018-2019\Architecture N-tiers\MVC\GestionBibliothequeFinal\GestionBibliotheque\ServicePattern\obj\Debug\ServicePattern.csprojAssemblyReference.cache
+D:\Esprit\2018-2019\Architecture N-tiers\MVC\GestionBibliothequeFinal\GestionBibliotheque\ServicePattern\obj\Debug\ServicePattern.csproj.CoreCompileInputs.cache
+D:\Esprit\2018-2019\Architecture N-tiers\MVC\GestionBibliothequeFinal\GestionBibliotheque\ServicePattern\obj\Debug\ServicePattern.csproj.CopyComplete
+D:\Esprit\2018-2019\Architecture N-tiers\MVC\GestionBibliothequeFinal\GestionBibliotheque\ServicePattern\obj\Debug\ServicePattern.dll
+D:\Esprit\2018-2019\Architecture N-tiers\MVC\GestionBibliothequeFinal\GestionBibliotheque\ServicePattern\obj\Debug\ServicePattern.pdb
